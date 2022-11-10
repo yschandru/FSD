@@ -1,6 +1,6 @@
 <html>
     <head> CALCULATOR</head>
-    <body>
+    <body bgcolor="yellow">
         <h2> enter first number</h2><br>
         <input type="text" id="n1" name="n1"/><br>
         <h2> enter second number </h2><br>
